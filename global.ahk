@@ -8,6 +8,8 @@ Alt & S::Send, {LWin} S ;
 Ctrl & {::o
 Ctrl & }::p
 
+; スクリーンショット
+^+4::Send #+S
 
 ; 矢印操作
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
