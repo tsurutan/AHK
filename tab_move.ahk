@@ -1,2 +1,0 @@
-Ctrl & {::o
-Ctrl & }::p
